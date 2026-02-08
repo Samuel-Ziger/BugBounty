@@ -1,0 +1,27 @@
+# Targets e escopo
+targets/
+scope/
+*.scope
+
+# Outputs
+output/
+results/
+*.json
+*.txt
+
+# Sessões
+cookies/
+sessions/
+burp/
+zap/
+
+# Sensível
+*.env
+*.token
+*.key
+
+# OS / editor
+.vscode/
+.idea/
+.DS_Store
+
